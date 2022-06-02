@@ -1,38 +1,35 @@
 {
   "recommendations": [
-    // my extensions, ofc :P
-    "antfu.browse-lite",
-    "antfu.iconify",
-    "antfu.slidev",
-    "antfu.unocss",
-    "antfu.vite",
-    "antfu.where-am-i",
-    "lokalise.i18n-ally",
+    // themes
+    "pmndrs.pmndrs",
+    "mrmartineau.rigel-vscode",
 
-    // themes & icons
+    // icons
     "antfu.icons-carbon",
-    "antfu.theme-vitesse",
     "file-icons.file-icons",
-    "sainnhe.gruvbox-material",
 
     // life savers!
+    "yatki.vscode-surround",
+    "alefragnani.project-manager",
     "dbaeumer.vscode-eslint",
-    "Vue.volar",
     "GitHub.copilot",
     "usernamehw.errorlens",
-    "streetsidesoftware.code-spell-checker",
+    "wmaurer.change-case",
+    "paulmolluzzo.convert-css-in-js",
+    "antfu.file-nesting",
+    "sleistner.vscode-fileutils",
+    "eamodio.gitlens",
+    "GitHub.vscode-pull-request-github",
+    "Cardinal90.multi-cursor-case-preserve",
 
     // up to you
-    "amodio.tsl-problem-matcher",
-    "eamodio.gitlens",
+    "herrmannplatz.npm-dependency-links",
+    "mattpocock.ts-error-translator",
+    "Dennitz.vscode-generact",
     "EditorConfig.EditorConfig",
-    "GitHub.vscode-pull-request-github",
     "mpontus.tab-cycle",
     "naumovs.color-highlight",
     "richie5um2.vscode-sort-json",
     "unional.vscode-sort-package-json",
-    "voorjaar.windicss-intellisense",
-    "WakaTime.vscode-wakatime",
-    "znck.grammarly"
   ]
 }
